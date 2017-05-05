@@ -1,0 +1,2 @@
+﻿# HibernateHelloWorld
+这是Hibernate的入门程序，还包括了基础的CRUD等
